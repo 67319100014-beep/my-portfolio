@@ -7,7 +7,7 @@ export default function Home() {
       
       {/* ชื่อ */}
     <h1 className="text-6xl font-bold bg-gradient-to-br from-blue-600 to-cyan-400 bg-clip-text text-transparent mb-4">
-      Hi I'm Freson
+      Hi I'm Fresson
     </h1>
       
       {/* Tagline */}
